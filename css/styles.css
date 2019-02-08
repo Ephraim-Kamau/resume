@@ -1,0 +1,23 @@
+h1 {
+  color:blue;
+  text-align:center;
+}
+h2 {
+  color:blue;
+  text-align:center;
+}
+h3 {
+  color:blue;
+  text-align:center;
+}
+.column {
+  width:700px;
+  float:center;
+  text-align: justify;
+  font-style: italic;
+  font-size: 18px;
+}
+body {
+  background-color: lightgrey;
+  color:black;
+}
