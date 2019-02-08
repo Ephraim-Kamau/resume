@@ -9,7 +9,7 @@ This is my resume. It contains all the relevant details about my educational bac
 I was able to use html to create a table in order to improve the aesthetics of the resume instead of having it all appear as plaintext.
 
 ## Support and contact details
-In case of any questions, ideas or contributions, feel free to contact me on either via telephone or email. My telephone contacts are; 0710700358 and email address is kephraim19@gmail.com
+In case of any questions, ideas or contributions, feel free to contact me on either via telephone or email. My telephone contacts are 0710700358 and email address is kephraim19@gmail.com
 
 ### Public
 Copyright (c) 2019
