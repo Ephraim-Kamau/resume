@@ -3,7 +3,7 @@ My Resume
 #### By **Ephraim Kamau**
 
 ## Description
-My resume contains all the relevant details about my educational background, achievements, qualifications and work experience.
+This resume contains all the relevant details about my educational background, achievements, qualifications and work experience.
 
 ## Support and contact details
 In case of any questions, ideas or contributions, feel free to contact me on either via telephone or email. My telephone contacts are 0710700358 and email address is kephraim19@gmail.com
