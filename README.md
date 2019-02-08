@@ -1,5 +1,5 @@
 My Resume
-#### This is a brief description of my resume, 8/2/2019
+#### A brief description of my resume, 8/2/2019
 #### By **Ephraim Kamau**
 
 ## Description
