@@ -1,4 +1,4 @@
-{My Resume
+My Resume
 #### This is a description of my resume, 8/2/2019
 #### By **Ephraim Kamau**
 
